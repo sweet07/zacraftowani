@@ -8,6 +8,10 @@ Profesjonalizm i stabilność, prawidłowo skonfigurowane pluginy i zoptymalizow
 
 Doświadczona administracja, zajmująca się serwerami od bety minecrafta.
 
+Miasta, a w nich tworzenie społeczności, walka z innymi miastami, podatki, podbijanie innych miast.
+
+System prac, dzięki nim, możesz stworzyć własne miasto, wynająć działkę w mieście, lub kupować lepsze przedmioty.
+
 Drop z rud, posiadamy skuteczny system anty-xray.
 
 Duża mapa (ok. 7 tyś x 7 tyś bloków), dostęp do piekła poprzez spawn.
@@ -35,11 +39,35 @@ Pomysły
 7. Dodanie Towny
 8. Dodanie Prac (Jobs Reborn)
 9. Dodanie silkspawners (SilkSpawners )
-10. Wyłączone tnt i creepery ????????????????? (WorldGuard)
+??? 10. Wyłączone tnt i creepery (WorldGuard)
 11. Dodanie aukcji. (Crazy Auctions)
 12. Poziomy i expienie (PvPLevels)
 13. Grupowanie potworów (StackMob)
 14. Zmiana PvP - (https://www.spigotmc.org/resources/pvptoggle.49112/) jeszcze nie wiadomo
-15. 
+15. Lepsze itemy za pvp
+16. System antygrief (CoreProtect)
+17. System antyxray (OreReplacer)
+18. Granica mapy (WorldBorder)
+??? 19. Random teleport (dragoTeleport)
+20. anty relog combattagx
+21. Nagrody za głosowanie na votelistach (VotingPlugin)
+??? 22. Zwierzątka (simplepets) 
 
+
+Tworzenie
+---------------------
+1. Wszystko kompatybilne z silnikiem 1.11.
+2. 0 błędów + podpięcie do mysql to co możliwe i może sprawiać błędów.
+3. Optymalizcja paperspigota.
+4. Stworzenie uprawnień i rang.
+5. Wymyślenie rang płatnych bez p2win.
+6. Prezentacja serwera na mpcforym, mpspot, skript.pl, spigot.pl innych forach + yt
+7. Spolszczenie pluginów w miarę możliwości.
+
+Spójne rzeczy
+------------------------
+
+TAG: &aZacraftowani.pl
+wiadomości na czacie: &3
+no-permission: &4Nie masz dostepu do tej komendy!
 
