@@ -365,7 +365,7 @@ global_town_settings:
     speed: 3s
     enable: 'true'
   # Allow towns to claim outposts (a townblock not connected to town).
-  allow_outposts: 'true'
+  allow_outposts: 'false'
   # Allow the use of /town spawn
   allow_town_spawn: 'true'
   # Allow regular residents to use /town spawn [town] (TP to other towns if they are public).
@@ -436,7 +436,7 @@ plugin:
       fake_residents: '[IndustrialCraft],[BuildCraft],[Redpower],[Forestry],[Turtle]'
  
     # Enable using_essentials if you are using cooldowns in essentials for teleports.
-    using_essentials: 'false'
+    using_essentials: 'true'
  
     # This will attempt to use Register (if present)
     # Then it will attempt to access iConomy 5.01 directly
