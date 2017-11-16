@@ -2,19 +2,20 @@ IP: xxx
 Wersja serwera: 1.11+
 
 
-Brak P2WIN, nie można kupić rzeczy w sklepie, które ingerują w rozgrywkę na serwerze.
 
 Profesjonalizm i stabilność, prawidłowo skonfigurowane pluginy i zoptymalizowany silnik, które nie generują lagów nawet przy dużej ilości graczy.
 
 Doświadczona administracja, zajmująca się serwerami od bety minecrafta.
 
-Miasta, a w nich tworzenie społeczności, walka z innymi miastami, podatki, podbijanie innych miast.
+Miasta, a w nich tworzenie społeczności, walka z innymi miastami, podatki, podbijanie innych miast na bazie pluginy Towny.
 
-System prac, dzięki nim, możesz stworzyć własne miasto, wynająć działkę w mieście, lub kupić lepsze przedmioty.
+System prac, dzięki nim, możesz zarabiać pieniądze.
+
+Ekonomia, gracze ustalają ceny rynkowe, mogą wynająć własne sklepy oraz sprzedawać przedmioty w domu aukcyjnym.
 
 Drop z rud, posiadamy skuteczny system anty-xray.
 
-Duża mapa (10 000 x 10 0000), dostęp do piekła poprzez spawn.
+Mapa główna (10 000 x 10 0000), Mapa surowcowa (10 000 x 10 000), Piekło (10 000 x 10 000) 
 
 Losowy teleport, przydatny do rozpoczęcia przygody na serwerze.
 
@@ -22,7 +23,11 @@ Nowy system walki z tarczami i wszystkimi dodatkami z najnowszego minecrafta!
 
 System anty-relog, nie pozwalający na edycję bloków, dostęp do skrzyń, używania komend podczas walki.
 
-Liczne konkursy, które poznasz podczas rozgrywki.
+Magiczne skrzynki, które można zdobyć przemierzając świat, kopiąc, zabijając potwory.
+
+Nowe przedmioty, mythic drops
+
+
 
 
 
@@ -30,28 +35,15 @@ Liczne konkursy, które poznasz podczas rozgrywki.
 
 Pomysły
 --------------------------
-1. /kit start - zestaw podstawowych przedmiotów
+1. Na start: Kamienny ekwipunek + skórzana zbroja + 32 mięska
+2. /pomoc lub /faq lub /menu
+3. Nagrody za głosowanie na votelistach (VotingPlugin)
+
+
+
 2. Skrzynka po śmierci na 45 sekund (DeathChest)
-3. Handel pomiędzy graczami /trade <player> (SimpleTrading lub SafeTrade)
 4. Ochrona początkowa 30 minut (PvPTimer)
-5. Dodanie komendy /pomoc
-6. Dodanie sklepów z villagerami (Shop)
-7. Dodanie Towny
-8. Dodanie Prac (Jobs Reborn)
 9. Dodanie silkspawners (SilkSpawners )
-??? 10. Wyłączone tnt i creepery (WorldGuard)
-11. Dodanie aukcji. (Crazy Auctions)
-12. Poziomy i expienie (PvPLevels)
-13. Grupowanie potworów (StackMob)
-14. Zmiana PvP - (https://www.spigotmc.org/resources/pvptoggle.49112/) jeszcze nie wiadomo
-15. Lepsze itemy za pvp
-16. System antygrief (CoreProtect)
-17. System antyxray (OreReplacer)
-18. Granica mapy (WorldBorder)
-??? 19. Random teleport (dragoTeleport)
-20. anty relog combattagx
-21. Nagrody za głosowanie na votelistach (VotingPlugin)
-??? 22. Zwierzątka (simplepets) 
 
 
 Pluginy
@@ -80,6 +72,12 @@ Spójne rzeczy
 ------------------------
 &f&lZacraftowani.pl &8&l» &7message
 
+
+Zrobione
+------------------------------
+1. Optymalizacja silnika
+2. Ustawione kwoty w Jobs Reborn (git)
+3. Wstępna konfiguracja Parties (git)
 
 
 
