@@ -123,7 +123,7 @@ party:
     # Password system (Allows to use /party join <party>, you can still disable via permissions passwords)
     join-password:
         # Allow create parties with password (/party create <party> <password>)
-        enable: true
+        enable: false
         # When use /party join, auto leave from current party
         bypass-leave: false
         # Regex of the chars (Use "\\" instead "\") (For ALL utf characters use "[\p{L}\s]+")
@@ -191,7 +191,7 @@ motd:
     censored-words: []
 kills:
     # Save in data.yml each kill of party
-    save-kills: false
+    save-kills: true
     which-save:
         neutral-mobs: false
         hostile-mobs: false
@@ -213,7 +213,7 @@ tablist:
 tag:
     # Set a tag name ahead players head (Use ScoreboardTeams system)
     # To avoid Minecraft bugs characters limit is 16 (party name included)
-    tag-system: false
+    tag-system: true
     # Base-tag is TRUE  | Custom-tag is FALSE
     which-tag-system: true
     # Show name of party
@@ -221,7 +221,7 @@ tag:
         # Warning: If you select this the max length for the party name is 10 chars. Overflow this will be bug plugin.
         #
         # Formats for the tag [ PREFIX | PLAYER NAME | SUFFIX]
-        format-prefix: "[%party%] "
+        format-prefix: "&7[&f%party%&7]&f "
         format-suffix: ""
     # Show a customizable name
     custom-tag:
@@ -291,7 +291,7 @@ censor:
     end-with: []
 exp:
     # Exp system
-    enable: false
+    enable: true
     # Divide exp
     divide-between-players: true
     # Range in blocks between player in a party share experience, -1 is unlimited (Everyone player in the party online)
