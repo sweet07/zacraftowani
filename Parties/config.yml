@@ -86,7 +86,7 @@ database:
         delay-delete-party: 600
 party:
     # Max members in a party (-1 is unlimited)
-    max-members: -1
+    max-members: 5
     # Regex of the chars (Use "\\" instead "\") (For ALL utf characters use "[\p{L}\s]+")
     allowed-chars: '[a-zA-Z0-9]+'
     # If you use tag-name system, for avoid bugs set max to 10
@@ -123,7 +123,7 @@ party:
     # Password system (Allows to use /party join <party>, you can still disable via permissions passwords)
     join-password:
         # Allow create parties with password (/party create <party> <password>)
-        enable: false
+        enable: true
         # When use /party join, auto leave from current party
         bypass-leave: false
         # Regex of the chars (Use "\\" instead "\") (For ALL utf characters use "[\p{L}\s]+")
@@ -151,7 +151,6 @@ party:
             - party.home
             - party.desc
             - party.motd
-            - party.claim
         moderator:
             rank: 10
             name: "Moderator"
