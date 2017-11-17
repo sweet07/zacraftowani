@@ -1,7 +1,8 @@
 #The text that will show up above the menu
 Menu-Name:
-  1: '&6I am golden, %player_name%!'
-  2: '&aI am green, %player_name%!'
+  1: '&f&lZacraftowani.pl &8&l» &6Pomoc &8&l| &cFAQ &8&l | &9Menu'
+  2: '&f&lZacraftowani.pl &8&l» &9Pomoc &8&l| &6FAQ &8&l | &cMenu'
+  3: '&f&lZacraftowani.pl &8&l» &cPomoc &8&l| &9FAQ &8&l | &6Menu'
 #The amount of ticks between each title update
 Title-Update-Delay: 40
 
@@ -15,37 +16,18 @@ Rows: 4
 #The permission required to open this menu
 Permission: some.menu.permission
 #The message to send if the player doesn't have Permission
-Permission-Message: '&cYou are not allowed to open this menu!'
+Permission-Message: '&f&lError &8&l» &cNie masz uprawnien do tej komendy.'
 
-#Menu opener information. If a player clicks with an item that has this data, the menu will open
-#Everything in this part is optional
-Menu-Opener: compass:1:0
-Menu-Opener-Name: '&6Server Selector'
-Menu-Opener-Lore:
-- '&7Pick a server to go to'
-#The slot to put the item in when the player joins (also optional)
-Menu-Opener-Slot: 5
-
-#Should the player open the menu when they join?
-Open-On-Join: yes
-#A sound to play when the menu opens
-#The 1 and 0.5 specify the volume and pitch, respectively (both optional)
 Open-Sound: ui.button.click 1 0.5
 
 #Should this menu not be shown in or openable with /animatedmenu?
 Hide-From-Command: true
 #Custom command to open the menu with. Everything is optional
 Command:
-  Name: selector
-  Usage: '/selector'
-  Description: 'Open the server selector'
+  Name: pomoc
+  Usage: '/pomoc'
   # When the player types too many arguments, execute a different command instead with the specified arguments
   Fallback: say
-
-#Global menu click delay the player needs to wait before being able to click again
-Click-Delay: 20
-#Message to send when waiting. You can use {ticksleft}, {secondsleft}, {minutesleft} and {hoursleft]
-Delay-Message: '&cYou need to wait another {ticksleft} ticks for that!'
 
 #Items that should go in the menu. Each new item starts with a dash ( - ) as you can see below
 Items:
