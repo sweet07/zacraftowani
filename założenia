@@ -84,9 +84,19 @@ Tworzenie
 6. Prezentacja serwera na mpcforym, mpspot, skript.pl, spigot.pl innych forach + yt
 7. Spolszczenie pluginów w miarę możliwości.
 
-Spójne rzeczy
+TAGI
 ------------------------
-&f&lZacraftowani.pl &8&l» &7message
+&f&lZacraftowani.pl &8&l» &7wiadomości
+&f&lError &8&l» &cbłędy
+&f&lRandomTP &8&l» &7randomteleport
+&f&lTeleportacja &8&l» &7teleportacja
+&f&lAntyRelog &8&l» &cantyrelog
+&f&lMapa &8&l» &cgranica mapy
+&f&lRynek &8&l» &7rynek
+
+&7 neutralne wiadomości
+&a pozytywne wiadomości
+&c negatywne wiadomości
 
 
 Zrobione
