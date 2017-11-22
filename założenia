@@ -73,6 +73,300 @@ WorldBorder (spolszczenie + konfiguracja)
 WorldEdit
 WorldGuard
 
+Hologramy
+-------------------------
+1. &6Witaj na serwerze Zacraftowani.pl
+   &fAby wejsc do menu serwera wpisz &e/menu
+2. &fNieskonczone kowadla!
+3. &8&l» &aEnchanting &8&l<<
+4.  &8---&6+&8---[ &6Spawn &8]---&6+&8---
+    &fWpisz &e/rtp &faby teleportowac sie w losowe miejsce na mapie lub
+    &fwpisz &e/surowce &faby telepotowac sie na mape surowcowa!
+    &f
+    &fPamietaj, grief na mapie glownej jest karany!
+5.  &8---&6+&8---[ &6Zacraft Skrzynki &8]---&6+&8---
+    &fOtworz skrzynki, aby wylosowac &eniesamowite &fnagrody!
+6.  &8---&6+&8---[ &6Zacraft Skrzynki &8]---&6+&8---
+    &ePPM &faby zobaczyc co mozna wygrac.
+    &eLPM &faby otworzyc i wylosowac nagrode.
+    &e/vote &fzdobywaj codzienne punkty glosowania,
+    &faby kupic klucz do &6Zacraft Skrzynki!
+7. &6Ostatnie Darowizny!
+8. &fOdwiedz lokalny &erynek
+   &fwpisujac &e/rynek
+9. &8---&6+&8---[ &6Ziemie Niczyje &8]---&6+&8---
+   &eGranica mapy: &f10,000 x 10,000
+   &fUzyj &e/surowce &faby przeniesc sie na mape surowcowa!
+10.&8---&6+&8---[ &6Rynek &8]---&6+&8---
+   &fTutaj mozesz wynajac miejsce pod sklep, gdzie mozesz sprzedawac i kupowac przedmioty.
+   &fUtrzymanie duzego i malego sklepu to odpowiednio &e$750 &f&& &e$250&f na dzien.
+   &fAby znalesc wolny sklep pod wynajem wpisz &e/as find &fi zajmij pusty sklep.
+   &ePPM &fna tabliczke przedluza miejsce wynajmu o 24 godziny.
+   &f
+   &6Nie zapomnij! &fDopiero od rangi &eKupiec &fi wyzej mozesz zakladac chestshopy.
+11.&8&l» &cChestShop Poradnik &8&l<<
+12.&8---&6+&8---[ &6Pieklo &8]---&6+&8---
+   &eGranica mapy: &f10,000 x 10,000
+   
+OPCJE POMOCY
+----------------
+1.    &c-------&8[--- &cRangi &8---]&c-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje o rangach.
+      &7Kupuj rangi, aby otrzymac ekstra uprawnienia.
+      &f
+      &cCechy:
+      &f- Dostepne rangi
+      &f- Uprawnienia
+2.    &6-------&8[--- &6Teleportacja &8---]&6-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje o teleportacji.
+      &7Teleportuj sie po serwerze!
+      &f
+      &6Cechy:
+      &f- Domy
+      &f- Lista teleportow
+3.    &2-------&8[--- &2LWC &8---]&2-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje o zabezpieczaniu.
+      &7Chron skrzynkie przed zlodziejami!
+      &f
+      &2Cechy:
+      &f- Prywatne zamki
+      &f- Edycja dostepu
+      &f- Flagi LWC
+4.    &e-------&8[--- &ePraca &8---]&e-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje o  pracy.
+      &7Pracuj, aby zarobic pieniadze!
+      &f
+      &7Cechy:
+      &f- Lista prac
+      &f- Zarobki
+5.    &b-------&8[--- &bWeb Linki &8---]&b-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje web linkach.
+      &7Rozszerz doswiadczenia z naszym serwerem!
+      &f
+      &bCechy:
+      &f- Strona
+      &f- Sklep
+      &f- Voting
+      &f- Discord
+6.    &3-------&8[--- &3Towny &8---]&3-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc informacje o miastach.
+      &7Dolacz do miasta lub stworz swoje wlasne!
+      &f
+      &3Cechy:
+      &f- Miasta
+      &f- Nacje
+      &f- Chronione ziemie
+      &f- Ustawienia
+7.    &d-------&8[--- &dGlowne Informacje &8---]&d-------
+      &f
+      &7Kliknij tutaj, aby zobaczyc glowne informacje.
+      &7Przydatne serwerowe informacje!
+      &f
+      &dCechy:
+      &f- Regulamin
+      &f- Aukcje
+      &f- Dodatkowe informacje
+      &f- Druzyny
+
+TAB
+----------------------
+
+header
+&c_________________________
+&f
+&a&lmc.zacraftowani.pl
+&f
+&7Online: &c%onlineplayers%&7/&c%maxonlineplayers%
+
+footer
+&f
+&eStrona: &7Zacraftowani.pl
+&f
+&c_________________________
+
+
+KSIĄŻKA STARTOWA
+------------------
+Witaj na serwerze
+&a&lZacraftowani
+
+Witaj na serwerze, twoim nowym domu. Przeczytaj ta ksiazke, aby dobrze i latwo zaczac gre!
+
+&a&lSwiaty
+
+&f&lGlowny:
+- Dostepny przez komende /spawn, to jest glowny swiat, ktory nie jest resetowany. Buduj swobodnie i 
+nie griefuj.
+
+&f&lMapa Surowcowa:
+- Dostep przez komende /surowce, to jest mapa surwcowa, resetowana co miesiac. Czuj sie wolny i
+rob co chcesz na tym swiecie. Nie ma kresu.
+
+&a&lPrace
+
+Praca to jedyny sposob na zarabianie pieniedzy na serwerze, uzyj &a/jobs browse &raby zobaczyc liste
+dostepnych prac.
+
+&a&lMiasta
+
+Uzyj Towny, aby zabezpieczyc teren. Z Towny mozesz tworzyc miasta i zarzadzac nimi. Wiecej informacji
+znajdziesz pod &a/menu&r.
+
+&a&lRangi
+
+Podnos swoje rangi w grze za serwerowa walute, aby otrzymac ekstra Perki. Wiecej informacji znajdziesz pod
+&a/menu&r. Jest tam lista rang, ich cena i perki.
+
+&a&lStrona
+
+Odwiedz nasza strone internetowa!
+
+&7www.zacraftowani.pl
+
+
+
+
+RANGI
+------------------------------------
+&8Podrozny
+&c_________________________
+&7Cena: &aDarmowy
+&7Perk: &aBrak dodatkowych.
+&c_________________________
+&fZamiatacz
+&c_________________________
+&7Cena: &a$500
+&7Perk: &a1 Dodatkowy home.
+&c_________________________
+&7Chlopek
+&c_________________________
+&7Cena: &a$1,500
+&7Perk: &a1 Dodatkowy home.
+&c_________________________
+&4Mieszkaniec
+&c_________________________
+&7Cena: &a$2,500
+&7Perk: &aTworzenie tabliczek Disposal.
+&7Perk: &aDostep do /kosz
+&c_________________________
+&6Urzednik
+&c_________________________
+&7Cena: &a$5,000
+&7Perk: &aUmiejetnosc do tworzenia miasta.
+&c_________________________
+&eKupiec
+&c_________________________
+&7Cena: &a$7,500
+&7Perk: &aTworzenie Chestshopow.
+&c_________________________
+&aZarzadca
+&c_________________________
+&7Cena: &a$10,000
+&7Perk: &aDostep do /craft
+&7Perk: &aDostep do /condense ???????????????????????????/
+&c_________________________
+&dNowicjusz
+&c_________________________
+&7Cena: &a$15,000
+&7Perk: &a1 Dodatkowy home.
+&c_________________________
+&5Uczen
+&c_________________________
+&7Cena: &a$25,000
+&7Perk: &aDostep do /enderchest
+&c_________________________
+&3Czeladnik
+&c_________________________
+&7Cena: &a$35,000
+&7Perk: &aDostep do /pweather
+&c_________________________
+&9Dziedzic
+&c_________________________
+&7Cena: &a$50,000
+&7Perk: &aDostep do /back
+&c_________________________
+&1Rycerz
+&c_________________________
+&7Cena: &a$75,000
+&7Perk: &aDostep do /back po smierci.
+&c_________________________
+&aMistrz
+&c_________________________
+&7Cena: &a$100,000
+&7Perk: &aDostep do /ptime
+&c_________________________
+&2Kawaler
+&c_________________________
+&7Cena: &a$150,000
+&7Perk: &a1 magazyn (/pv)
+&c_________________________
+&6Arystokrata
+&c_________________________
+&7Cena: &a$250,000
+&7Perk: &aUmiejetnosc do tworzenia nacji.
+&c_________________________
+&8Baron
+&c_________________________
+&7Cena: &a$400,000
+&7Perk: &a1 Dodatkowy home.
+&c_________________________
+&dLord
+&c_________________________
+&7Cena: &a$650,000
+&7Perk: &a1 Dodatkowa praca.
+&c_________________________
+&4Hrabia
+&c_________________________
+&7Cena: &a$1,500,000
+&7Perk: &aEXP po smierci.
+&c_________________________
+&8Graf
+&c_________________________
+&7Cena: &a$3,500,000
+&7Perk: &aUmiejetnosc zbierania spawnerow.
+&c_________________________
+&aMarkiz
+&c_________________________
+&7Cena: &a$7,000,000
+&7Perk: &aDostep do /nick (bez kolorow)
+&c_________________________
+&6Ksiaze
+&c_________________________
+&7Cena: &a$10,000,000
+&7Perk: &aDostep do kolorowego chatu.
+&c_________________________
+&3General
+&c_________________________
+&7Cena: &a$15,000,000
+&7Perk: &aDostep do /heal (2h)
+&7Perk: &aDostep do /food
+&c_________________________
+&eKrolewicz
+&c_________________________
+&7Cena: &a$25,000,000
+&7Perk: &aDostep do /nick (z kolorami)
+&c_________________________
+&5Monarcha
+&c_________________________
+&7Cena: &a$50,000,000
+&7Perk: &aBrak.
+&c_________________________
+&eWladca
+&c_________________________
+&7Cena: &a$100,000,000
+&7Perk: &aDostep do /fly
+&c_________________________
+&aUlepszanie rang!
+&c_________________________
+&7Wszystkie rangi nalezy kupic w kolejnosci.
+&7Wpisz &e/rankup &7aby zwiekszyc range.
+&c_________________________
 
 Tworzenie
 ---------------------
@@ -129,7 +423,7 @@ https://www.spigotmc.org/resources/healthbar.44258/
 https://www.spigotmc.org/resources/shopchest.11431/
 https://www.spigotmc.org/resources/worldguard-extra-flags.4823/
 https://www.spigotmc.org/resources/permanent-anvils.48919/
-
+https://www.spigotmc.org/resources/cosmic-vaults.34309/
 
 
 Bungeecord | http://www.hammondslegacy.com/forum/viewtopic.php?f=40&t=205
