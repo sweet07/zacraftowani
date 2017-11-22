@@ -1,10 +1,10 @@
-prefix: "§a[Shop] §r"
-iteminfo: "§aItem Information: §r"
+prefix: "&f&lSklep &8&l»"
+iteminfo: "§aInformacje o przedmiocie: §r"
 
-ACCESS_DENIED: "You don't have permission to do that!"
+ACCESS_DENIED: "&cNie masz uprawnien do tej komendy!"
 
-NOT_ENOUGH_MONEY: "You don't have enough money!"
-NOT_ENOUGH_MONEY_SHOP: "Shop owner doesn't have enough money!"
+NOT_ENOUGH_MONEY: "&cNie masz wystarczajacej ilosci pieniedzy!"
+NOT_ENOUGH_MONEY_SHOP: "&cWlasciciel sklepu nie ma wystarczajacej ilosci pieniedzy!"
 
 CLIENT_DEPOSIT_FAILED: "Money deposit to your account failed!"
 SHOP_DEPOSIT_FAILED: "Money deposit to shop owner failed!"
