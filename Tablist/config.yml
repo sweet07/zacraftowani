@@ -30,36 +30,32 @@ Tablist:
     Messages:
       Header:
       - |-
-        &2SERVER&aNAME
-        &7Online: &a&o%onlineplayers%&7&o/&2&o%maxonlineplayers%
-        &7Ping: &a%ping%
-        &7===================
+        &f
+        &f&lZacraftowani.pl
+        &aOnline: &e%onlineplayers%&7/&e%maxonlineplayers
+        &f
+        &c____________________
+        &f
       - |-
-        &3SERVER&bNAME
-        &7Online: &b&o%onlineplayers%&7&o/&3&o%maxonlineplayers%
-        &7Ping: &b%ping%
-        &7===================
+        &f
+        &2&lZacraftowani.pl
+        &aOnline: &e%onlineplayers%&7/&e%maxonlineplayers
+        &f
+        &c____________________
+        &f
       - |-
-        &6SERVER&eNAME
-        &7Online: &e&o%onlineplayers%&8&o/&6&o%maxonlineplayers%
-        &7Ping: &e%ping%
-        &7===================
+        &f
+        &4&lZacraftowani.pl
+        &aOnline: &e%onlineplayers%&7/&e%maxonlineplayers
+        &f
+        &c____________________
+        &f
       Footer:
       - |-
-        &7===================
-        &2%player%
-        &7Health: &a&o%health%&7/&2&o%maxhealth%
-        &7Food: &a&o%foodlevel%&7/&2&o20
-        &7X:&a&o%blockx%&7 Y:&a&o%blocky%&7 Z:&a&o%blockz%
-      - |-
-        &7===================
-        &3%player%
-        &7Health: &b&o%health%&7/&3&o%maxhealth%
-        &7Food: &b&o%foodlevel%&7/&3&o20
-        &7X:&b&o%blockx%&7 Y:&b&o%blocky%&7 Z:&b&o%blockz%
-      - |-
-        &7===================
-        &6%player%
-        &7Health: &e&o%health%&7/&6&o%maxhealth%
-        &7Food: &e&o%foodlevel%&7/&6&o20
-        &7X:&e&o%blockx%&7 Y:&e&o%blocky%&7 Z:&e&o%blockz%
+        &f
+        &c____________________
+        &f
+        &aZycie: &e&o%health%&7/&e&o%maxhealth%
+        &aPieniadze: &e%money%
+        &8&l%time%
+        &f
